@@ -85,5 +85,6 @@ The dataset contains **29 columns** and provides detailed information on motor v
    
 ![image](https://github.com/user-attachments/assets/1fbe81ac-ee3d-4f93-984d-23aa9f3bcb1e)
 ![image](https://github.com/user-attachments/assets/d7581f9c-bebe-480e-8276-c4034cc51fc0)
+![image](https://github.com/user-attachments/assets/895e4b3e-a504-4987-937b-39baa6d00017)
 
 
